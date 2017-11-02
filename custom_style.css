@@ -1,0 +1,142 @@
+
+body {
+background-color:#D97C61;
+}
+.header{
+margin: 0 auto;
+width: 100%;
+padding: 12px;
+text-align: center;
+color: #F5E2DD;
+font-size: 18px;
+font-weight: bolder;
+
+
+background-color:#B22900;
+}
+
+
+.fix img {
+height:40px;
+width:40px;
+}
+
+
+
+.hr{
+margin:0;
+padding:0;
+height:2px;
+width:100%;
+background:#984221;
+margin-bottom:4px;
+}
+.hr2{
+margin:0;
+padding:0;
+height:2px;
+width:100%;
+background:#984221;
+margin-top:4px;
+}
+
+
+
+
+.wrap{
+height: auto;
+width:96%;
+text-align:center;
+
+overflow: hidden;
+margin: 0 auto;
+
+padding-bottom:15px;
+}
+
+.one{
+display:block;
+width: 48%;
+float: left;
+
+margin: 1%;
+border-radius: 8px 8px 8px 8px;
+
+background-color:#B22800;
+}
+.one img{
+border-radius:8px 8px 0px 0px;
+
+}
+.one a {
+text-decoration:none; 
+
+}
+.one a:hover {
+    color:#F3D69C;  } 
+
+.two{
+width: 98%;
+float: left;
+background-color:#741A00;
+margin: 1%;
+border-radius:8px 8px 8px 8px;
+margin-top:3%;
+margin-bottom:3%;
+}
+.two a {
+text-decoration:none; 
+}
+.two img {
+
+border-radius:8px 8px 0px 0px;
+}
+.two a:hover {
+    color:#F3D69C;  }
+
+
+
+.name{
+color:#F5E2DD;
+padding:2px;
+display:block;
+
+}
+
+.para 
+{
+
+background: -moz-linear-gradient(53deg, #99DAFF 0%, #008080 1%, #008080 100%); /* ff3.6+ */
+background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, #99DAFF), color-stop(1%, #008080), color-stop(100%, #008080)); /* safari4+,chrome */
+background: -webkit-linear-gradient(53deg, #99DAFF 0%, #008080 1%, #008080 100%); /* safari5.1+,chrome10+ */
+background: -o-linear-gradient(53deg, #99DAFF 0%, #008080 1%, #008080 100%); /* opera 11.10+ */
+background: -ms-linear-gradient(53deg, #99DAFF 0%, #008080 1%, #008080 100%); /* ie10+ */
+background: linear-gradient(37deg, #99DAFF 0%, #008080 1%, #008080 100%); /* w3c */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#008080', endColorstr='#99DAFF',GradientType=0 ); /* ie6-9 */
+
+}
+.para h3{
+color:#000;
+margin:0;
+font-weight:bold;
+font-size:18px;
+background-color:#FDFDFD; 
+line-height:20px; 
+text-align:center;
+padding:6px;
+}
+.para p{
+margin:0;
+text-align:justify;
+padding:7px;
+border:2px solid white;
+color:#000;
+font-size:16px;
+}
+	   
+.main{
+margin:0 auto;
+width:100%;
+min-height:100%;
+padding-bottom:40px;
+}
